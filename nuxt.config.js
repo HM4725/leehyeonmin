@@ -16,9 +16,9 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
-      { name: 'msapplication-TileColor', content: '#ffffff' },
+      { name: 'msapplication-TileColor', content: '#000000' },
       { name: 'msapplication-TileImage', content: '/favicon/ms-icon-144x144.png' },
-      { name: 'theme-color', content: '#ffffff' }
+      { name: 'theme-color', content: '#000000' }
     ],
     link: [
       { rel: 'apple-touch-icon', sizes: '57x57', href: '/favicon/apple-icon-57x57.png' },
